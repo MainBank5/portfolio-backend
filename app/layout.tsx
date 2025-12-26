@@ -4,6 +4,9 @@ export const metadata = {
   title: "Backend & Cloud Engineer",
   description:
     "Backend, Cloud, and DevOps engineer focused on scalable systems and production infrastructure.",
+    icons: {
+    icon: "/icon.png",
+  },
 };
 
 export default function RootLayout({
